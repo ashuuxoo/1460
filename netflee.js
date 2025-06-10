@@ -20,6 +20,10 @@ const setupvideoBox = () => {
         const originalTitle = document.title; // Save current page title
         document.title = videoTitle; // Set page title to videoTitle
 
+        // Prevent background scroll
+        const previousOverflow = document.body.style.overflow;
+        document.body.style.overflow = 'hidden';
+
         const previewPAge = document.createElement('div');
         previewPAge.style.position = 'fixed';
         previewPAge.style.top = '0';
@@ -40,7 +44,6 @@ const setupvideoBox = () => {
 
         // Add poster image
         const posterImg = document.createElement('video');
-        posterImg.src = trailer;
         posterImg.style.display = 'block';
         posterImg.style.background = 'black';
         posterImg.style.marginLeft = '0';
@@ -48,8 +51,9 @@ const setupvideoBox = () => {
         posterImg.style.boxShadow = 'grey 0.2em 0.2em 0.5em';
         posterImg.style.width = '100%';
         posterImg.style.height = '13em';
-        posterImg.poster = poster;
-        posterImg.style.objectFit = 'cover'; 
+        posterImg.style.objectFit = 'cover';
+        posterImg.src = trailer;
+        posterImg.poster = poster; 
         posterImg.controls = false; // Remove default controls
         posterImg.autoplay = true;
         posterImg.muted = true;
@@ -206,9 +210,10 @@ const setupvideoBox = () => {
         closeButton.style.cursor = 'pointer';
         closeButton.addEventListener('click', () => {
           document.body.removeChild(previewPAge); // Remove preview page
-          window.removeEventListener('popstate', handlePopState);
-          // Restore original page title
           document.title = originalTitle;
+          window.removeEventListener('popstate', handlePopState);
+          // Restore background scroll
+          document.body.style.overflow = previousOverflow;
           // Go forward in history if the state was just added
           if (history.state && history.state.previewOpen) {
             history.back();
