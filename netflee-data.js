@@ -644,46 +644,7 @@ const netflee = [
       'https://s26.nm-cdn5.top/files/81238006/a/6/6.m3u8',
       'https://s26.nm-cdn5.top/files/81238007/a/6/6.m3u8'
     ]
-  },
-  {
-    slot:"1012",
-    link:[
-      'https://s10.nm-cdn2.top/files/0P0XRU3F62PWLZN702YPE71XAY/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::9c85be054ec9306ad98b8154aab8cc59::1749967096::ni',
-      'https://s10.nm-cdn2.top/files/0Q7KASR112LON3FO73DUQCJN1N/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::de016d5bea44664fb7405afe91a290fb::1749967129::ni',
-      'https://s10.nm-cdn2.top/files/0SP2T0PQW11T2CS1WQO78SUA5D/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::c3d3cf11bcc3a13f368ac55bf487e483::1749967157::ni',
-      'https://s10.nm-cdn2.top/files/0M6MWQ5NJE4X7PFVSC0D07OLK2/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::96552f86897b668da0503e48205df616::1749967184::ni',
-      'https://s10.nm-cdn2.top/files/0QKCNOQRHEE3LMOUP6A5MRBEKG/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::6fcc9b2daedea09df4c5ff86f5328bfd::1749967216::ni',
-      'https://s10.nm-cdn2.top/files/0QSVKA2LT4H6AM5MS83EQW66QQ/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::3bc40344db92b07eef9a96a8f1ed726b::1749967273::ni',
-      'https://s10.nm-cdn2.top/files/0NUB8VGL8SL8TX8S8JLCGTH9UW/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::a1389950d81a21fc06d7a4c9c0748001::1749967298::ni',
-      'https://s10.nm-cdn2.top/files/0JXNB3J63O98Q86PZ5S76EOLDM/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::f147b6ca195c7064eeb7b6b3aab59efd::1749967323::ni'
-    ]
-  },
-  {
-    slot:"1012",
-    link:[
-      'https://s10.nm-cdn2.top/files/0NWM3OJO27MEFMOX3IC2YQSB4H/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::da5d803fb57023ff07c0e3c90f37ef31::1749967389::ni',
-      'https://s10.nm-cdn2.top/files/0K0K83A3J2OP34ZC5K9SDZ5LMA/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::291ebc906e52bfb9661dafcadc120f5d::1749967443::ni',
-      'https://s10.nm-cdn2.top/files/0QGUW9820JFCLTC8BPC7KO4Z5T/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::357f725965aaeae8e20fca32d38cb13a::1749967476::ni',
-      'https://s10.nm-cdn2.top/files/0OPDPE7H4ZZ0240TTF3AO5M3SE/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::a44aa43907c71a84fef0e3969acc4eb0::1749967609::ni',
-      'https://s10.nm-cdn2.top/files/0HEVDRA4XJGHSGV7JK0KZCA4N3/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::11d7b2a8c90abb7c5c700456f30175cc::1749967635::ni',
-      'https://s10.nm-cdn2.top/files/0GB7IGC1FU3DVXBI0BT30FUCUG/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::c64807b92cf43152c4f5fe5008beb0d1::1749967656::ni',
-      'https://s10.nm-cdn2.top/files/0Q6SA3JIM9VWBB5GWHNBUKCH6K/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::4b0eba293114c3912afb8bceef250521::1749967678::ni',
-      'https://s10.nm-cdn2.top/files/0LH8AT91AEGJ2CUXSO2TCT78CJ/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::b5afc224c3db6b2f558d74f001fe48d5::1749967700::ni'
-    ]
-  },
-  {
-    slot:"1012",
-    link:[
-      'https://s10.nm-cdn2.top/files/0N5POBBSZCD12GIQRH3E5NSQCW/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::285c97d4484e586933e6777c808408a7::1749967771::ni',
-      'https://s10.nm-cdn2.top/files/0SR32OQZ97L2TW19DGWIP98TBX/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::617275288107e9be91e87ba292c0a123::1749967797::ni',
-      'https://s10.nm-cdn2.top/files/0HQ37SO374QNBDEDHSIMFZYP8Z/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::ae0de1606c2ca41b15839032c4e9fc0c::1749967818::ni',
-      'https://s10.nm-cdn2.top/files/0H4U0U4EZCFP58KD9V8BSD1FFW/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::90f89aa2c9f242061bb382dc53ca3270::1749967838::ni',
-      'https://s10.nm-cdn2.top/files/0OWJ2V0YMXZOFLAS7EZ94522EP/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::3fc93d2effa1d49e5512eee80ac95912::1749967863::ni',
-      'https://s10.nm-cdn2.top/files/0PEPIR4UPT3W45G2J12ON1J1B4/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::0f2731583c7b0d03ded53f32b558bb0e::1749967887::ni',
-      'https://s10.nm-cdn2.top/files/0O5FRSSOBW876X027PLO7PAIHO/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::666d2d1596f0ebdd20c2d66196c0b268::1749967909::ni',
-      'https://s10.nm-cdn2.top/files/0R9Q40HQ31D2LEWQSESLSLVSAX/720p/-720p.m3u8?in=ffbd89bc8b4027998969d8344e5432df::6040e6b24df96f8cf01d038778fb7890::1749967930::ni'
-    ]
-  },
+  }, 
   {
     slot:"1013",
     link:['https://api.files.vc/files/hzp/97c9419828bfb58e35425021eb831907.mp4'],
